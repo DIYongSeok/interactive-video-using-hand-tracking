@@ -13,7 +13,7 @@ The first part of the video shows texts that symbolize world peace and innocence
 <img width="60%" src="https://github.com/DIYongSeok/interactive-video-using-hand-tracking/assets/146920174/039e5fae-394c-42e2-b2be-ac53f152a37f"/>
 
 <br/><br/>
-The second part of the video shows fireflies flying across the screen and a red dot representing the position of your hand. When the red dot comes close enough to the fireflies through the movement of your hand, it reveals words from Yoon Dong-ju's poem "Counting the Stars at Night," expressing his longing for his hometown, family, and childhood memories.
+The second part of the video shows faint fireflies flying across the raining screen and a red dot representing the position of your hand. When the red dot comes close enough to the fireflies through the movement of your hand, it reveals words from Yoon Dong-ju's poem "Counting the Stars at Night," expressing his longing for his hometown, family, and childhood memories.
 
 <img width="60%" src="https://github.com/DIYongSeok/interactive-video-using-hand-tracking/assets/146920174/958de0d0-b64c-4d8f-9e37-a14e15e0d37a"/>
 
@@ -55,7 +55,7 @@ In the final part of the video, the fireflies captured by your hand movements ga
     
     python hand-track.py --cam_id (the number of your webcam)
 
-5. Launch the processing and download a libraries list below.
+5. Launch the processing and download the libraries list below.
     > go to [`sketch` -> `manage libraries...`] and search the libraries
 
     - minim
